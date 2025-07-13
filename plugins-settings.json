@@ -1,0 +1,23 @@
+{
+    "2bd1c688-31c5-443e-ae25-59aa5b6431fb": {
+        "id": "714551ea-1730-4075-84e2-681285c5238d",
+        "name": "REST API",
+        "designId": "2d09ff6d-2f95-4b9a-b37d-f19ac2b04ca8",
+        "pluginId": "2bd1c688-31c5-443e-ae25-59aa5b6431fb",
+        "publicData": {}
+    },
+    "41448d5d-ae26-49bd-82b6-1c79f462e972": {
+        "id": "74e92dce-fe8f-429a-8d96-659c24199299",
+        "name": "Token Based Auth",
+        "designId": "2d09ff6d-2f95-4b9a-b37d-f19ac2b04ca8",
+        "pluginId": "41448d5d-ae26-49bd-82b6-1c79f462e972",
+        "publicData": {}
+    },
+    "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
+        "id": "6037587e-f3ca-4386-a425-95715259aafb",
+        "name": "Supabase Auth",
+        "designId": "2d09ff6d-2f95-4b9a-b37d-f19ac2b04ca8",
+        "pluginId": "1fa0dd68-5069-436c-9a7d-3b54c340f1fa",
+        "publicData": {}
+    }
+}
