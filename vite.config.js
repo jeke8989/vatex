@@ -6,7 +6,7 @@ import fs from 'fs';
 import handlebars from 'handlebars';
 import { nodePolyfills } from 'vite-plugin-node-polyfills';
 
-const pages = {"index":{"outputDir":"./","lang":"en","title":"","cacheVersion":1,"meta":[{"name":"twitter:card","content":"summary"},{"property":"og:type","content":"website"},{"name":"robots","content":"index, follow"}],"scripts":{"head":"\n","body":"\n"},"baseTag":{"href":"/","target":"_self"},"alternateLinks":[{"rel":"alternate","hreflang":"x-default","href":"https://2d09ff6d-2f95-4b9a-b37d-f19ac2b04ca8.weweb-preview.io/"},{"rel":"alternate","hreflang":"en","href":"https://2d09ff6d-2f95-4b9a-b37d-f19ac2b04ca8.weweb-preview.io/"}]}};
+const pages = {"index":{"outputDir":"./","lang":"en","title":"","cacheVersion":2,"meta":[{"name":"twitter:card","content":"summary"},{"property":"og:type","content":"website"},{"name":"robots","content":"index, follow"}],"scripts":{"head":"\n","body":"\n"},"baseTag":{"href":"/","target":"_self"},"alternateLinks":[{"rel":"alternate","hreflang":"x-default","href":"https://2d09ff6d-2f95-4b9a-b37d-f19ac2b04ca8.weweb-preview.io/"},{"rel":"alternate","hreflang":"en","href":"https://2d09ff6d-2f95-4b9a-b37d-f19ac2b04ca8.weweb-preview.io/"}]}};
 
 // Read the main HTML template
 const template = fs.readFileSync(path.resolve(__dirname, 'template.html'), 'utf-8');

@@ -25,7 +25,7 @@ import pluginsSettings from '../../plugins-settings.json';
 // eslint-disable-next-line no-undef
 window.wwg_designInfo = {"id":"2d09ff6d-2f95-4b9a-b37d-f19ac2b04ca8","homePageId":"f6f4c515-0053-40ef-b72f-647ea8280953","authPluginId":"1fa0dd68-5069-436c-9a7d-3b54c340f1fa","baseTag":null,"defaultTheme":"light","langs":[{"lang":"en","default":true}],"background":{},"workflows":[],"pages":[{"id":"f6f4c515-0053-40ef-b72f-647ea8280953","linkId":"f6f4c515-0053-40ef-b72f-647ea8280953","name":"Home","folder":null,"paths":{"en":"home","default":"home"},"langs":["en"],"cmsDataSetPath":null,"sections":[{"uid":"b8378ddb-3273-4301-8059-3689635fba42","sectionTitle":"Top Nav","linkId":"a9bcdd57-618a-47e7-ba7b-86165cd9f699"},{"uid":"d56ade14-aaea-4cd3-bec2-5eca05d383b0","sectionTitle":"Page Container","linkId":"52db2b2f-ad0b-43cc-b7ba-246e6d773231"}],"pageUserGroups":[],"title":{"en":"","fr":"Vide | Commencer à partir de zéro"},"meta":{"desc":{},"keywords":{},"socialDesc":{},"socialTitle":{},"structuredData":{}},"metaImage":""}],"plugins":[{"id":"1fa0dd68-5069-436c-9a7d-3b54c340f1fa","name":"Supabase Auth","namespace":"supabaseAuth"},{"id":"2bd1c688-31c5-443e-ae25-59aa5b6431fb","name":"REST API","namespace":"restApi"},{"id":"41448d5d-ae26-49bd-82b6-1c79f462e972","name":"Token Based Auth","namespace":"authToken"}]};
 // eslint-disable-next-line no-undef
-window.wwg_cacheVersion = 1;
+window.wwg_cacheVersion = 2;
 // eslint-disable-next-line no-undef
 window.wwg_pluginsSettings = pluginsSettings;
 // eslint-disable-next-line no-undef
