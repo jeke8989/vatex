@@ -14,10 +14,21 @@
         "publicData": {}
     },
     "1fa0dd68-5069-436c-9a7d-3b54c340f1fa": {
-        "id": "6037587e-f3ca-4386-a425-95715259aafb",
+        "id": "388508cd-633e-44c8-9c75-ba69ccea28ea",
         "name": "Supabase Auth",
         "designId": "2d09ff6d-2f95-4b9a-b37d-f19ac2b04ca8",
         "pluginId": "1fa0dd68-5069-436c-9a7d-3b54c340f1fa",
         "publicData": {}
+    },
+    "f9ef41c3-1c53-4857-855b-f2f6a40b7186": {
+        "id": "f2b0774b-d201-43ff-ace9-4c46689867d3",
+        "name": "Supabase",
+        "designId": "2d09ff6d-2f95-4b9a-b37d-f19ac2b04ca8",
+        "pluginId": "f9ef41c3-1c53-4857-855b-f2f6a40b7186",
+        "publicData": {
+            "apiKey": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRncnBtcWttbGtoaXJpYWFvbnhuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTI0MzgzODgsImV4cCI6MjA2ODAxNDM4OH0.8pPHKvrurVZBgV5xSrXzNUwTtkwXjJtp5Nl_iPUqxZo",
+            "projectUrl": "https://dgrpmqkmlkhiriaaonxn.supabase.co",
+            "realtimeTables": {}
+        }
     }
 }
